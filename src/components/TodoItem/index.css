@@ -1,0 +1,22 @@
+.delete-btn {
+  font-family: 'Roboto';
+  color: #ff0b37;
+  border-color: #ff0b37;
+  border-radius: 5px;
+  height: 26px;
+  width: 70px;
+  margin-left: 10px;
+  cursor: pointer;
+  outline: none;
+}
+.todo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+}
+.todoName {
+  font-family: 'Roboto';
+  flex-grow: 1;
+}
